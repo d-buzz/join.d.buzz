@@ -101,4 +101,4 @@ Login to your Firebase using your Google account
 ## Contributions 🧪
 You can [check opened issues](https://github.com/d-buzz/join.d.buzz/issues) and contribute to this project by creating a pull request
 
-If you have questions or comments, please create an issue or message us on our Discord
+If you have questions or comments, please create an issue or message us on our [Discord](https://discord.gg/MzJV3K2FAj)
