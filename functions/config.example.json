@@ -1,0 +1,12 @@
+{
+  "provider": "",
+  "account": "",
+  "activeKey": "",
+  "rcThreshold": "",
+  "creator_instances": [],
+  "fee": {
+    "referrer": 300,
+    "creator": 100,
+    "provider": 100
+  }
+}

@@ -43,9 +43,12 @@ Login to your Firebase using your Google account
 
 - Then goto -> Authentication -> Sign-in method -> Add new provider -> then enable Phone.
 
+- Finally, put in required variables into a new file `.env`, copy the values from `.env.example`
+
+
 #### Backend Setup ⚙
 
-- Put in your preferred HIVE configurations into ``/functions/config.json``
+- Put in your preferred HIVE configurations into a new file ``/functions/config.json``, copy the values from ``/functions/config.example.json``
 
 ## Build & Deploy ⚙
 - Build the app for production
